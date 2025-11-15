@@ -33,7 +33,7 @@ chmod +x sys-info.sh
 ```
 
 ## 📦 Example Output
-```txt
+```yaml
 [INFO] Gathering system information...
 
   🖥  SYSTEM INFORMATION
